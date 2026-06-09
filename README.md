@@ -3,7 +3,7 @@ Developing systematic analysis framework for AI Trustworthiness (Security, Safet
 
 ---
 ## Publications and Presentations
-This study was recently accepted for presentation as a poster at IEEE S&P 2026 (Acceptance rate: 40/101).
+This study was accepted for presentation as a poster at IEEE S&P 2026 (Acceptance rate: 40/101).
 - [Title] "Beyond STRIDE: A Unified Multi-Attribute Framework for Trustworthy AI"
 - [Links] https://www.ieee-security.org/TC/SP2026/posters.html
 - [Note] You can find short paper and poster in "/IEEE S&P Poster" directory

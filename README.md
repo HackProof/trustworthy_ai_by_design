@@ -11,6 +11,6 @@ This study was accepted for presentation as a poster at IEEE S&P 2026 (Acceptanc
 ---
 ## Contacts
 - **Seungjoo Kim (Corresponding Author)**: Professor, School of Cybersecurity, Korea University, Korea, skim71@korea.ac.kr
-- **Junhyeong Lee (Co-First Author)**: Ph.D. course, School of Cybersecurity, Korea University, Korea, enter930302@naver.com
+- **Jun Hyeong Lee (Co-First Author)**: Ph.D. course, School of Cybersecurity, Korea University, Korea, enter930302@naver.com
 - **Kwangsoo Cho (Co-First Author)**: Ph.D. course, School of Cybersecurity, Korea University, Korea, cks4386@korea.ac.kr
-- **Survey Link**: 
+- **Short Survey Link**: https://m.site.naver.com/24XPB

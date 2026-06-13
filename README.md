@@ -7,3 +7,10 @@ This study was accepted for presentation as a poster at IEEE S&P 2026 (Acceptanc
 - [Title] "Beyond STRIDE: A Unified Multi-Attribute Framework for Trustworthy AI"
 - [Links] https://www.ieee-security.org/TC/SP2026/posters.html
 - [Note] You can find short paper and poster in "/IEEE S&P Poster" directory
+
+---
+## Contacts
+- **Seungjoo Kim (Corresponding Author)**: Professor, School of Cybersecurity, Korea University, Korea, skim71@korea.ac.kr
+- **Junhyeong Lee (Co-First Author)**: Ph.D. course, School of Cybersecurity, Korea University, Korea, enter930302@naver.com
+- **Kwangsoo Cho (Co-First Author)**: Ph.D. course, School of Cybersecurity, Korea University, Korea, cks4386@korea.ac.kr
+- **Survey Link**: 
